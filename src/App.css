@@ -1,0 +1,33 @@
+#main{
+  background-image: url('../src/assets/wea3.jpg');
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 100vh;
+}
+
+#box1{
+  display: flex;
+}
+
+#search{
+  margin-left: 1.5cm;
+  width: auto;
+  display: flex;
+  align-items: center;
+  height: 1cm;
+  border-radius: 10px;
+  border: none;
+}
+#sericon{
+  font-size:40px;
+}
+
+#top{
+  
+}
+
+#bottom{
+  display: flex;
+}
