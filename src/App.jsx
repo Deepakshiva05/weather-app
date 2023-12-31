@@ -44,10 +44,8 @@ useEffect(()=>{
   const[city,setCity] = useState('chennai');
   const[data,setData] = useState(city.data);
 
-//ending here
   const[temp,setTemp]=useState('23 C');
-  // const[humid,setHumid]=useState('');
-  // const[wind,setWind]=useState('');
+
   const[desc,setDesc]=useState('Welcome User');
 
 
